@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on Kaggle competitions.
 - 💬 Ask me about getting started in a project. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arun-soundarrajan)
-- ⚡ Fun fact: I feel guilty in free time for not being productive, yet doing nothing to be productive 😂
+- ⚡ Fun fact: I feel guilty while chilling for not being productive, yet doing nothing to be productive 😂
 
