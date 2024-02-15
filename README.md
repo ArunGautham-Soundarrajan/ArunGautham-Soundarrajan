@@ -11,7 +11,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2017<br>📚 I'm currently trying to keep up with tech<br>
-###
+
 
 <h2 align="left">I code with</h2>
 
@@ -28,10 +28,5 @@
   <img width="12" />
 
 </div>
-
-###
-
-<h2 align="left">📫 How to reach me: <br> </h2>
-[LinkedIn](https://www.linkedin.com/in/arun-soundarrajan)
 
 
