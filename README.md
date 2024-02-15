@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -33,6 +31,7 @@
 
 ###
 
-<h2 align="left">📫 How to reach me: <br>[LinkedIn](https://www.linkedin.com/in/arun-soundarrajan) </h2>
+<h2 align="left">📫 How to reach me: <br> </h2>
+[LinkedIn](https://www.linkedin.com/in/arun-soundarrajan)
 
 
