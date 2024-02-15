@@ -1,5 +1,37 @@
 ### Hi there 👋
 
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Arun and I'm a Data Scientist, from Norwich</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently trying to keep up with tech<br>
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="40"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="40"/>
+  <img width="12" />
+
+</div>
+
+###
 - 🔭 I’m currently studying at the University of Glasgow.
 - 🌱 I’m currently learning Data Science & Machine learning
 - 👯 I’m looking to collaborate on Kaggle competitions.
